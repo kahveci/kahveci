@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Sinan</h1>
-<h3 align="center">I’m a Cloud Solutions Architect and Consulting Manager with over 15 years of hands-on experience. I specialise in bridging the gap between strategic business goals and cutting-edge technology solutions, empowering organisations to unlock their potential and gain a competitive edge. My experience spans end-to-end solution delivery — from pre-sales consulting and architecture design to implementation and managed services. My track record includes delivering innovative, cost-effective digital transformation projects across diverse sectors, including finance and manufacturing. I hold certifications across all major hyperscalers (AWS, Azure, GCP) and am well-versed in Agile (Scrum), FinOps and ITIL frameworks, enabling me to drive results while ensuring operational excellence. I am deeply passionate about emerging technologies, continuously seeking opportunities to create scalable, value-driven solutions for businesses of all sizes. </h3>
+<h3 align="center">I’m a Cloud Solutions Architect and Consulting Manager with over 15 years of hands-on experience. I specialise in bridging the gap between strategic business goals and cutting-edge technology solutions, empowering organisations to unlock their potential and gain a competitive edge.</h3>
+
+<h3 align="center">My expertise covers end-to-end solution delivery—from pre-sales consulting and architecture design to implementation and managed services. I have a proven track record of delivering innovative, cost-effective digital transformation projects across diverse sectors, including finance and manufacturing.</h3>
+
+<h3 align="center">I hold certifications across all major hyperscalers (AWS, Azure, GCP) and have deep expertise in Agile (Scrum), FinOps, and ITIL frameworks, ensuring I drive results while maintaining operational excellence. Passionate about emerging technologies, I continuously seek opportunities to develop scalable, value-driven solutions for businesses of all sizes.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
