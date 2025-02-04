@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sinan</h1>
+<h1 align="center">Hi there 👋, I'm Sinan!</h1>
 <h3 align="center">I’m a Cloud Solutions Architect and Consulting Manager with over 15 years of hands-on experience. I specialise in bridging the gap between strategic business goals and cutting-edge technology solutions, empowering organisations to unlock their potential and gain a competitive edge.</h3>
 
 <h3 align="center">My expertise covers end-to-end solution delivery—from pre-sales consulting and architecture design to implementation and managed services. I have a proven track record of delivering innovative, cost-effective digital transformation projects across diverse sectors, including finance and manufacturing.</h3>
