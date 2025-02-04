@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sinan</h1>
+<h3 align="center">I’m a Cloud Solutions Architect and Consulting Manager with over 15 years of hands-on experience. I specialise in bridging the gap between strategic business goals and cutting-edge technology solutions, empowering organisations to unlock their potential and gain a competitive edge. My experience spans end-to-end solution delivery — from pre-sales consulting and architecture design to implementation and managed services. My track record includes delivering innovative, cost-effective digital transformation projects across diverse sectors, including finance and manufacturing. I hold certifications across all major hyperscalers (AWS, Azure, GCP) and am well-versed in Agile (Scrum), FinOps and ITIL frameworks, enabling me to drive results while ensuring operational excellence. I am deeply passionate about emerging technologies, continuously seeking opportunities to create scalable, value-driven solutions for businesses of all sizes. </h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/KahveciSinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kahvecisinan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sinankahveci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinankahveci" height="30" width="40" /></a>
+<a href="hhttps://binarybeans.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@binarybeans" height="30" width="40" /></a>
+</p>
 
 <!--
 **kahveci/kahveci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
