@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/KahveciSinan" target="blank"><img align="center" src="https://github.com/kahveci/kahveci/blob/main/images/x.png" alt="kahvecisinan" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/sinankahveci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinankahveci" height="30" width="40" /></a>
-<a href="https://binarybeans.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@binarybeans" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sinankahveci" target="blank"><img align="center" src="https://github.com/kahveci/kahveci/blob/main/images/linkedin.png" alt="sinankahveci" height="40" width="40" /></a>
+<a href="https://binarybeans.medium.com" target="blank"><img align="center" src="https://github.com/kahveci/kahveci/blob/main/images/medium.png" alt="@binarybeans" height="40" width="40" /></a>
 </p>
 
 <!--
