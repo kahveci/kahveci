@@ -3,7 +3,7 @@
 
 <h3 align="center">My expertise covers end-to-end solution delivery—from pre-sales consulting and architecture design to implementation and managed services. I have a proven track record of delivering innovative, cost-effective digital transformation projects across diverse sectors, including finance and manufacturing.</h3>
 
-<h3 align="center">I hold certifications across all major hyperscalers (AWS, Azure, GCP) and have deep expertise in Agile (Scrum), FinOps, and ITIL frameworks, ensuring I drive results while maintaining operational excellence. Passionate about emerging technologies, I continuously seek opportunities to develop scalable, value-driven solutions for businesses of all sizes.</h3>
+<h3 align="center">I hold certifications across all major hyperscalers (AWS, Azure, GCP) and have deep expertise in Agile (Scrum), FinOps, TOGAF, and ITIL frameworks, ensuring I drive results while maintaining operational excellence. Passionate about emerging technologies, I continuously seek opportunities to develop scalable, value-driven solutions for businesses of all sizes.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
